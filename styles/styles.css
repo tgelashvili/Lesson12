@@ -1,0 +1,12 @@
+.pink {
+    background-color: #FF2288;
+    border-color: #FF2288;
+  }
+.pink-text {
+    color: #FF2288;
+}
+
+.search-icon {
+    position: absolute;
+    background-image: url('../images/nav-bar/Component\ 9\ –\ 2.svg') no-repeat left center;
+}

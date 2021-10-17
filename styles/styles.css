@@ -2,6 +2,18 @@
     background-color: #FF2288;
     border-color: #FF2288;
   }
+
+.selector:hover {
+    background: #FF2288;
+}
+
+
+.filter-selector:hover {
+    background-color: #F2F2F2;
+    border-radius: 12px;
+}
+
+
 .pink-text {
     color: #FF2288;
 }

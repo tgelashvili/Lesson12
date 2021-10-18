@@ -7,10 +7,27 @@
     background: #FF2288;
 }
 
-
 .filter-selector:hover {
     background-color: #F2F2F2;
     border-radius: 12px;
+}
+
+.gray {
+    background-color: #FAFAFA;
+    border-color: #FAFAFA;
+}
+
+.gr{
+    background-color: #F2F2F2;
+}
+
+.following:hover{
+    background-color: #F2F2F2;
+    border-color: #F2F2F2;
+}
+
+.gr-br {
+    border-color: #D8D8D8;
 }
 
 
@@ -18,7 +35,13 @@
     color: #FF2288;
 }
 
-/* .search-icon {
-    position: absolute;
-    background: url('../images/nav-bar/Component\ 9\ –\ 2.svg') no-repeat left center;
-} */
+
+
+.card-img-overlay {
+    top: 30px;
+    left: 35px;
+    padding: 5px;
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+} 

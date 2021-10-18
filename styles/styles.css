@@ -35,8 +35,6 @@
     color: #FF2288;
 }
 
-
-
 .card-img-overlay {
     top: 30px;
     left: 35px;
@@ -45,3 +43,10 @@
     border: none;
     cursor: pointer;
 } 
+
+tr {
+    width: 100%;
+    display: inline-table;
+    max-height: 62px;        
+    height: 100%;       
+}
